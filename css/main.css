@@ -43,7 +43,7 @@ and open the template in the editor.
 .ahide{
     height: 20px;
     overflow: hidden;
-    text-indent: -99999px;
+    text-indent: -9999px;
     background-image: url("../img/plus.png");
 }
 
